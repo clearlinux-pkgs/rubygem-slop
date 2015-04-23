@@ -1,0 +1,3 @@
+# rubygem-pry requires version (~>3.4)
+# check: https://rubygems.org/gems/pry
+watchurl=https://rubygems.org/gems/slop/versions/(3.[\d.]*)
